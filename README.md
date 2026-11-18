@@ -2,6 +2,8 @@
 
 Installers for **Nuppi**, a living notch for Windows 10 and 11, guarded by Kopi the black cat. Nuppi was called Atap before; installing it over Atap keeps your data.
 
+**Website:** [nuppi-notch.github.io](https://nuppi-notch.github.io/)
+
 Download `NuppiSetup-<version>.exe` from [Releases](../../releases/latest). Before running it, check the file against `NuppiSetup-<version>.exe.sha256`:
 
 ```powershell
