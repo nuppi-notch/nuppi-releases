@@ -4,7 +4,9 @@ Installers for **Nuppi**, a living notch for Windows 10 and 11, guarded by Kopi 
 
 **Website:** [nuppi-notch.github.io](https://nuppi-notch.github.io/)
 
-Download `NuppiSetup-<version>.exe` from [Releases](../../releases/latest). Before running it, check the file against `NuppiSetup-<version>.exe.sha256`:
+**[Download NuppiSetup.exe](https://github.com/Adytm404/nuppi-releases/releases/latest/download/NuppiSetup.exe)**: always the newest version.
+
+To check a specific version, download `NuppiSetup-<version>.exe` from [Releases](../../releases/latest). Before running it, check the file against `NuppiSetup-<version>.exe.sha256`:
 
 ```powershell
 Get-FileHash .\NuppiSetup-1.0.0.exe -Algorithm SHA256
